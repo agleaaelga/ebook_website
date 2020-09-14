@@ -1,0 +1,12 @@
+Schedule:
+2 months for backend(Sept - Nov)
+meanhwhile leanring react,js,html,css
+start working on react(Nov - )
+
+
+API topic:
+1.Django rest framework tutorial, api guide
+
+Apps:
+1. Custom User Model
+2. Ebook model 

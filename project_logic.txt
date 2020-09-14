@@ -1,3 +1,0 @@
-Apps:
-1. Custom User Model
-2. Ebook model 
